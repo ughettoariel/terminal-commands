@@ -9,7 +9,8 @@ brew install zsh-syntax-highlighting
 sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
 curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.33.11/install.sh | bash
 
-
+brew cask install slack
+brew cask install zoom
 brew cask install skype
 brew cask install spotify
 brew cask install transmission
@@ -19,6 +20,7 @@ brew cask install spectacle
 brew cask install vlc
 brew cask install iterm2
 brew cask install visual-studio-code
-brew cask install gitkraken
+brew cask install sourcetree
 brew cask install postman
-brew cask install league-of-legends
+brew cask install robo-3t
+brew cask install react-native-debugger
